@@ -38,6 +38,10 @@ aside {
 }
 
 @media (max-width: 800px) {
+	#contenedor {
+		width: 100%;
+	}
+
 	h1 {
 		background-color: #8FA68E;
 		}
